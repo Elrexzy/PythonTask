@@ -68,9 +68,6 @@ def sum_of_square(numbers):
     for the_numbers in numbers:
         total += (the_numbers * the_numbers)
     return total
-    
-lisy(1,2,4,5,6,7,9,8)
 
-print(string_of_words(lisy))
    
 
